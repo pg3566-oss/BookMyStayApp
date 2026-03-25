@@ -7,7 +7,6 @@
  *
  * @version 2.1
  */
-
 public class DoubleRoom extends Room {
 
     /**

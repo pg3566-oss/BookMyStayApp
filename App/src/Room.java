@@ -15,7 +15,6 @@
  *
  * @version 2.1
  */
-
 public abstract class Room {
 
     /** Number of beds available in the room */
