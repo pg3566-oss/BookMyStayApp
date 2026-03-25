@@ -9,7 +9,6 @@
  */
 
 public class SuiteRoom extends Room {
-
     /**
      * Initializes a SuiteRoom with predefined attributes.
      */

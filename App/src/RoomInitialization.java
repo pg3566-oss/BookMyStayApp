@@ -15,9 +15,7 @@
  *
  * @version 2.1
  */
-
 public class RoomInitialization {
-
     /**
      * Application entry point.
      *
